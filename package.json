@@ -1,1 +1,8 @@
-
+{
+  "name": "help-crypto-telegram-backend",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@upstash/redis": "^1.34.0"
+  }
+}
